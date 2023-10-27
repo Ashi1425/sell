@@ -1,0 +1,33 @@
+/* Reset default margin and padding */
+body, h1, p, form {
+    margin: 0;
+    padding: 0;
+}
+
+/* Center align text within the body */
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+/* Style the header */
+h1 {
+    margin-top: 20px;
+    color: #333;
+}
+
+/* Style the paragraph text */
+p {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+/* Style the form container */
+form {
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    
+ }
